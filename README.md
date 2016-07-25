@@ -13,12 +13,15 @@
 
 - hw2 - shell script
   - modify shell script to train data, test data in order to get higher accuracy
+  
   - using Hidden Markov Toolkit (HTK) 
 
 
 - hw3 - in c++
   - build a character-based language model with toolkit SRILM
+  
   - **mapping.cpp**
     - turn Big5-ZhuYin.map to ZhuYin-Big5.map
+    
   - **disambig.cpp**
     - Viterbi algorithm to find out the most possible sequence
