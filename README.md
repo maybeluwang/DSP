@@ -7,6 +7,8 @@
   - **test.cpp** 
     - Given model λ and O, find the best state sequenceto minimize P(O|λ,q)
     - Viterbi Algorithm
+  
+ - iterating 155 times will have the highest accuarcy in 1~400 times
 
 
 - hw2 - shell script
